@@ -1,6 +1,6 @@
 # RSVP_CORSAIRS
 
-This is a demo app I presented at school as part of my course CIS-539 User Interface Design. The app is built using Flutter and Supabase.
+
 The presentation can be found [here](https://docs.google.com/presentation/d/1MnPqcCwWJEdSHxkL5gTBEtmFy3HFS6k3Pviwx6aHq40/edit?usp=sharing)
 
 
